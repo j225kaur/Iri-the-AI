@@ -1,0 +1,6 @@
+speechrecognition
+wikipedia
+openai
+pyaudio
+simple-webbrowser
+spotipy
